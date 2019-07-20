@@ -1,0 +1,12 @@
+percobaan test 
+
+satisfaction_level : tingkat kepuasan pekerja
+last_evaluation : hasil evaluasi terakhir
+number_project : jumlah proyek yang dikerjakan
+average_montly_hours : rata-rata jam kerja dalam sebulan
+time_spend_company : waktu pengabdian kerja
+Work_accident : jumlah kecelakaan kerja
+left : mengundurkan diri
+promotion_last_5years : ada promosi atau tidak
+sales : departemen tempat bekerja
+salary : kategorisasi gaji 
